@@ -1,0 +1,41 @@
+.container{
+    text-align:center;
+    background-color: aliceblue;
+    margin-top: 150px;
+    padding:20px;
+    height:40vh;
+    border-radius: 10px;
+    border:1px solid red;
+    box-shadow:0 4px 8px;
+    width:50vh;
+    height:40vh;
+    margin-left: 80vh;
+    
+
+}
+
+.random{
+    margin-top:50px;
+}
+
+input{
+    padding:5px;
+    font-size: 15px;
+    font-weight: bold;;
+}
+
+button{
+    padding: 5px 10px;
+    font-size:17px;
+    border:none;
+    border-radius: 5px;
+    background-color: aquamarine;
+    color:white;
+    cursor:pointer;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+
+
